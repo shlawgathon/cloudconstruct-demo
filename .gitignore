@@ -152,3 +152,5 @@ fabric.properties
 # Keep code style and run configurations
 !.idea/codeStyles
 !.idea/runConfigurations
+
+cloudconstruct.yaml
