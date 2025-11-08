@@ -1,0 +1,17 @@
+{
+  "name": "cloudconstruct-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Very simple Express.js Hello World app",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
