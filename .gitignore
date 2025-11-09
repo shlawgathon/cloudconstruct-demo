@@ -154,3 +154,4 @@ fabric.properties
 !.idea/runConfigurations
 
 cloudconstruct.yaml
+.kube-temp-config
